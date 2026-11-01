@@ -103,10 +103,6 @@ The lessons are defined as plain data near the bottom of `App.jsx`, so you can c
 
 Corrections, clearer wording and new case studies are welcome. If you find a symbol or rule that differs from your textbook, please open an issue and tell us which textbook or standard you follow. Notation varies between courses, and we would like the tutorial to say so where it matters.
 
-## Licence
-
-_Choose a licence for your repository (for example MIT, or Creative Commons for the teaching text) and add it here._
-
 ## Credits
 
-Created by _your name_ for _your course or institution_.
+Created Paul Kweyu.
